@@ -1,0 +1,4 @@
+
+Me falta encontrar una forma de que el objecto shape, Rectangle2D se mueva en el plano,
+pues lo que estuve viendo no existe ningun metodo de la misma clase que lo permita. 
+y veo que la solucion pasa por crear otros objectos o usar clases externas
