@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bd_ins"},
+{"type":"table","name":"alumnos","database":"bd_ins","data":
+[
+{"ID":"1","NombreAlumno":"AlumnoPrueba","Grupo":"9"},
+{"ID":"2","NombreAlumno":"AlumnoPrueba2","Grupo":"10"}
+]
+}
+]
+
+//base de datos SQL en JSON
